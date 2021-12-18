@@ -1,7 +1,6 @@
 # Final Project: Web Development with Java Spring Framework
 ## by Peter the Great St. Petersburg Polytechnic University
 
-RESTFull Web Services with Spring MVC and Hibernate CRUD
 The task is to develop of RESTFull Web Services with Spring MVC and Hibernate CRUD on an arbitrary topic:
 library of books
 
